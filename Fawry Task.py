@@ -1,5 +1,3 @@
-# Python implementation of the described e-commerce system
-
 from abc import ABC, abstractmethod
 from datetime import datetime, timedelta
 
